@@ -1,6 +1,4 @@
-Here is a **simple GitHub repository description** you can paste directly into your repo.
 
----
 
 ###  Python Internship Projects – CodSoft
 
