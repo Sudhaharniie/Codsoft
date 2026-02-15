@@ -2,15 +2,6 @@ Here is a **simple GitHub repository description** you can paste directly into y
 
 ---
 
-## 📌 Short Repo Description (top line)
-
-**Python Development Internship Projects – CodSoft**
-Collection of beginner-friendly Python projects built during my internship, focusing on core Python concepts and practical applications.
-
----
-
-## 📖 Full README Description
-
 ###  Python Internship Projects – CodSoft
 
 This repository contains the Python projects and practice work completed during my **1-month Python Development Internship at CodSoft**.
