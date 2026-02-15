@@ -5,7 +5,7 @@
 This repository contains the Python projects and practice work completed during my **1-month Python Development Internship at CodSoft**.
 The goal of this internship was to strengthen my Python fundamentals and gain hands-on experience by building small real-world applications.
 
----
+
 
 ###  Objectives
 
@@ -15,7 +15,7 @@ The goal of this internship was to strengthen my Python fundamentals and gain ha
 * Understand how real projects are structured
 * Build simple command-line applications
 
----
+
 
 ###  Technologies Used
 
@@ -25,7 +25,7 @@ The goal of this internship was to strengthen my Python fundamentals and gain ha
 * Command Line
 * Standard Python libraries
 
----
+
 
 ### Projects Included
 
@@ -41,7 +41,7 @@ A command-line based to-do list program that allows users to:
 **Concepts used:**
 Lists, Functions, File Handling, User Input
 
----
+
 
 #### 2️ Calculator Application
 
@@ -57,7 +57,7 @@ Includes input validation and exception handling.
 **Concepts used:**
 Functions, Conditional Statements, Exception Handling
 
----
+
 
 #### 3️ Password Generator
 
@@ -66,7 +66,7 @@ A Python program that generates strong random passwords based on user input.
 **Concepts used:**
 Random module, String handling, User input
 
----
+
 
 ###  What I Learned
 
@@ -78,7 +78,7 @@ Random module, String handling, User input
 
 This internship helped me build a strong foundation in Python and prepare for larger projects.
 
----
+
 
 ###  Future Improvements
 
